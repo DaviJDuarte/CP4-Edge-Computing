@@ -2,6 +2,7 @@
 
 - [Davi de Jesus Duarte](https://github.com/DaviJDuarte)
 - [Jéssica Lais Domingues Flauzino da Silva](https://github.com/JessFlauzino)
+- [Kauã Carvalho de Oliveira](https://github.com/kauacarv1)
 - [Leonardo Lopes Pereira](https://github.com/LeonardoL-Bah)
 - [Matheus Brasil Borges Sevilha Angelotti](https://github.com/MathBra17)
 
